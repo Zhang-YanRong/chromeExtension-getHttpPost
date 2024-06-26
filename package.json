@@ -1,0 +1,23 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@crxjs/vite-plugin": "^1.0.14",
+    "crypto-js": "^4.2.0",
+    "pubsub-js": "^1.9.4",
+    "spark-md5": "^3.0.2",
+    "vue": "^3.4.29",
+    "vue-json-viewer": "^3.0.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1"
+  }
+}
